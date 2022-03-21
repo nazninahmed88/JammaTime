@@ -1,0 +1,25 @@
+.bg-button{
+    background-color: rgb(148, 91, 148);
+    
+}
+
+.text{
+    color: teal;
+}
+.color{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.color:hover{
+    color: rgb(83, 196, 196);
+   
+   
+}
+.color:focus{
+    color: rgb(83, 196, 196);
+}
+.button{
+    text-decoration: none;
+    color: white;
+}
